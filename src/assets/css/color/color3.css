@@ -1,0 +1,326 @@
+a:hover, a:focus, a:active {
+    color: #ff5400;
+}
+.btn-primary {
+	background-color: #ff5400;
+	border-color: #ff5400;
+}
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
+	background-color: #ff5400;
+	border-color: #ff5400;
+}
+.btn-primary:hover, .btn-primary:focus {
+	background-color: #ff5400;
+}
+.btn-primary.disabled, .btn-primary:disabled {
+	color: #fff;
+	background-color: #ff5400;
+	border-color: #ff5400;
+}
+.owl-controls .owl-dot:hover {
+	background: #ff5400;
+}
+.owl-controls .owl-dot.active {
+	background: #ff5400;
+}
+.owl-theme .owl-nav [class*="owl-"]:hover {
+	background: #ff5400;
+}
+.loader {
+	background: #ff5400;
+}
+.light .classy-navbar-toggler .navbarToggler span {
+	background-color: #ff5400;
+}
+.light .classynav ul li.megamenu-item ul li .find-out-more-btn {
+	color: #ff5400;
+}
+.main-header-area .classynav ul li a.active, .main-header-area .classynav ul li a:hover {
+	color: #ff5400;
+}
+.main-header-area .classynav ul li .dropdown .active a {
+	color: #ff5400;
+}
+.light .classynav ul li.megamenu-item ul .active a {
+	color: #ff5400;
+}
+.main-header-area .searchbtn:hover {
+	color: #ff5400 !important;
+}
+.main-header-area .light .classynav ul li .dropdown li .dropdown li a:hover {
+	color: #ff5400;
+}
+.main-header-area .light .classynav ul li .dropdown li .dropdown .active a {
+	color: #ff5400;
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.main-header-area .searchbtn {
+		background-color: #ff5400 !important;
+	}
+}
+@media only screen and (max-width: 767px) {
+	.main-header-area .searchbtn {
+		background-color: #ff5400;
+	}
+}
+.loader #largeBox {
+    background-color: #ff5400;
+}
+#search .close {
+	color: #ff5400;
+}
+#search .close:hover {
+    background: #ff5400;
+    border-color: #ff5400;
+}
+.top-header p a:hover {
+	color: #ff5400;
+}
+.top-header ul li a:hover, .top-header ul li a:focus {
+    background: #ff5400;
+    border-color: #ff5400;
+}
+.top-header .btn {
+    border: 1px solid #ff5400;
+}
+.top-header .btn-primary:hover, .top-header .btn-primary:focus {
+	color: #ff5400;
+}
+.top-header .dropdown-toggle:hover {
+    color: #ff5400;
+}
+.top-header .dropdown-menu {
+	background: #ff5400;
+}
+.top-header .dropdown-item:focus, .top-header .dropdown-item:hover {
+	color: #ff5400;
+}
+.upcoming-bike-content p {
+    color: #ff5400;
+}
+.single-upcoming-bike:hover .upcoming-bike-content {
+    background: #ff5400;
+}
+.features-box i {
+    color: #ff5400;
+}
+.categories-item:hover::before {
+	background: #ff5400;
+}
+.single-product .sale {
+	color: #ff5400;
+	border: 1px dashed #ff5400;
+}
+.single-product .discount {
+	background: #ff5400;
+}
+.single-product .product-content p {
+	color: #ff5400;
+}
+.modal-body .product-body .availability span {
+	color: #ff5400;
+}
+.modal-body .product-body ul li span {
+	color: #ff5400;
+}
+.modal-body .product-body .wishlist-compare:hover {
+	border-color: #ff5400;
+    background: #ff5400;
+}
+.advertise-area::before {
+	background: #ff5400;
+}
+.fun-facts {
+	background: #ff5400;
+}
+.fun-facts:hover i {
+	color: #ff5400;
+}
+.fun-facts:hover .count {
+	color: #ff5400;
+}
+.fun-facts:hover span {
+	color: #ff5400;
+}
+.sale-product-content h4 a:hover {
+	color: #ff5400;
+}
+.sale-product-content .price p span {
+	color: #ff5400;
+}
+.blog-area .owl-controls .owl-dot.active, .blog-area .owl-controls .owl-dot:hover {
+	background: #ff5400;
+}
+.single-blog-post:hover .date {
+	background: #ff5400;
+}
+.post-content ul li a:hover {
+	color: #ff5400;
+}
+.blog-details .thumb .date {
+	background: #ff5400;
+}
+.blog-details-content .blockquote {
+	background: #ff5400;
+}
+.blog-details-content .content-text ul li i {
+	color: #ff5400;
+}
+.blog-details-footer {
+	background: #ff5400;
+}
+.blog-details .about-admin {
+	background: #ff5400;
+}
+.single-post-comments .content a {
+    color: #ff5400;
+}
+.testimonials-area {
+	background: #ff5400;
+}
+.single-feedback span {
+	color: #ff5400;
+}
+.instagram-item::before {
+	background: #ff5400;
+}
+.page-title ul li.active {
+    color: #ff5400;
+}
+.page-title ul li a:hover {
+	color: #ff5400;
+}
+.timeline > li > .timeline-badge {
+	background-color: #ff5400;
+}
+.timeline-heading p i {
+	color: #ff5400;
+}
+.side-bar .title::before {
+	background: #ff5400;
+}
+.side-bar .inputGroup input:checked ~ label {
+    color: #ff5400;
+}
+.side-bar .inputGroup input:checked ~ label::after {
+	background-color: #ff5400;
+	border-color: #ff5400;
+}
+.side-bar form button:hover {
+	background: #ff5400;
+}
+.side-bar .tags ul li a {
+    border: 1px solid #ff5400;
+}
+.side-bar .tags ul li a:hover {
+	background: #ff5400;
+}
+.side-bar .recent-post-content ul li a:hover {
+	color: #ff5400;
+}
+.our-staff .pic::before {
+	background: #ff5400;
+}
+.our-staff .social {
+	background: #ff5400;
+}
+.our-staff .social li a:hover{
+    color: #ff5400;
+}
+.single-staff:hover .pic {
+	background: #ff5400;
+}
+.single-staff .post {
+	color: #ff5400;
+}
+.staff-details span {
+	color: #ff5400;
+}
+.staff-details .staff-contact-info li i {
+	color: #ff5400;
+}
+.single-gallery .picture-icon a {
+	background: #ff5400;
+}
+.product-details .product-review ul .customer-review a {
+    color: #ff5400;
+}
+.product-details .price h4 span + span {
+    color: #ff5400;
+}
+.tabset > label {
+    border: 1px dashed #ff5400;
+}
+.tabset > label:hover, .tabset > input:focus + label {
+    background: #ff5400;
+}
+.tabset > input:checked + label {
+    background: #ff5400;
+}
+.tab-panel {
+    border: 1px dashed #ff5400;
+}
+.checkout-area .title::before {
+	background: #ff5400;
+}
+.payment-holder input[type="radio"]:checked ~ .check {
+	background: #ff5400;
+	border-color: #ff5400;
+}
+.payment-holder .place-order {
+	background: #ff5400;
+}
+.payment-holder .place-order .btn {
+	color: #ff5400;
+}
+.card {
+	border: 1px solid #ff5400;
+}
+.card-header {
+	background: #ff5400;
+}
+.login-content p a:hover {
+	color: #ff5400;
+}
+.login-content h4 a {
+	color: #ff5400;
+}
+.register-content h4 a {
+	color: #ff5400;
+}
+.contact-box i {
+	border: 1px dashed #ff5400;
+	color: #ff5400;
+}
+.contact-box:hover i {
+    background: #ff5400;
+}
+.contact-box p a:hover {
+	color: #ff5400;
+}
+.page-item.active .page-link {
+	background-color: #ff5400;
+	border-color: #ff5400;
+}
+.page-link:hover {
+	background-color: #ff5400;
+	border-color: #ff5400;
+}
+.footer-area .widgets .usefull-links li a:hover {
+	color: #ff5400;
+}
+.footer-area .widgets .contact-us li i {
+	color: #ff5400;
+}
+.footer-area .widgets .contact-us li a:hover {
+	color: #ff5400;
+}
+.footer-area .widgets .subscribe-us button {
+	background: #ff5400;
+}
+.copyright-area p a {
+    color: #ff5400;
+}
+.go-top:hover {
+	background-color: #ff5400;
+}

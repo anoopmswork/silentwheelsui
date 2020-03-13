@@ -1,0 +1,326 @@
+a:hover, a:focus, a:active {
+    color: #1c63b8;
+}
+.btn-primary {
+	background-color: #1c63b8;
+	border-color: #1c63b8;
+}
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
+	background-color: #1c63b8;
+	border-color: #1c63b8;
+}
+.btn-primary:hover, .btn-primary:focus {
+	background-color: #1c63b8;
+}
+.btn-primary.disabled, .btn-primary:disabled {
+	color: #fff;
+	background-color: #1c63b8;
+	border-color: #1c63b8;
+}
+.owl-controls .owl-dot:hover {
+	background: #1c63b8;
+}
+.owl-controls .owl-dot.active {
+	background: #1c63b8;
+}
+.owl-theme .owl-nav [class*="owl-"]:hover {
+	background: #1c63b8;
+}
+.loader {
+	background: #1c63b8;
+}
+.light .classy-navbar-toggler .navbarToggler span {
+	background-color: #1c63b8;
+}
+.light .classynav ul li.megamenu-item ul li .find-out-more-btn {
+	color: #1c63b8;
+}
+.main-header-area .classynav ul li a.active, .main-header-area .classynav ul li a:hover {
+	color: #1c63b8;
+}
+.main-header-area .classynav ul li .dropdown .active a {
+	color: #1c63b8;
+}
+.light .classynav ul li.megamenu-item ul .active a {
+	color: #1c63b8;
+}
+.main-header-area .searchbtn:hover {
+	color: #1c63b8 !important;
+}
+.main-header-area .light .classynav ul li .dropdown li .dropdown li a:hover {
+	color: #1c63b8;
+}
+.main-header-area .light .classynav ul li .dropdown li .dropdown .active a {
+	color: #1c63b8;
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.main-header-area .searchbtn {
+		background-color: #1c63b8 !important;
+	}
+}
+@media only screen and (max-width: 767px) {
+	.main-header-area .searchbtn {
+		background-color: #1c63b8;
+	}
+}
+.loader #largeBox {
+    background-color: #1c63b8;
+}
+#search .close {
+	color: #1c63b8;
+}
+#search .close:hover {
+    background: #1c63b8;
+    border-color: #1c63b8;
+}
+.top-header p a:hover {
+	color: #1c63b8;
+}
+.top-header ul li a:hover, .top-header ul li a:focus {
+    background: #1c63b8;
+    border-color: #1c63b8;
+}
+.top-header .btn {
+    border: 1px solid #1c63b8;
+}
+.top-header .btn-primary:hover, .top-header .btn-primary:focus {
+	color: #1c63b8;
+}
+.top-header .dropdown-toggle:hover {
+    color: #1c63b8;
+}
+.top-header .dropdown-menu {
+	background: #1c63b8;
+}
+.top-header .dropdown-item:focus, .top-header .dropdown-item:hover {
+	color: #1c63b8;
+}
+.upcoming-bike-content p {
+    color: #1c63b8;
+}
+.single-upcoming-bike:hover .upcoming-bike-content {
+    background: #1c63b8;
+}
+.features-box i {
+    color: #1c63b8;
+}
+.categories-item:hover::before {
+	background: #1c63b8;
+}
+.single-product .sale {
+	color: #1c63b8;
+	border: 1px dashed #1c63b8;
+}
+.single-product .discount {
+	background: #1c63b8;
+}
+.single-product .product-content p {
+	color: #1c63b8;
+}
+.modal-body .product-body .availability span {
+	color: #1c63b8;
+}
+.modal-body .product-body ul li span {
+	color: #1c63b8;
+}
+.modal-body .product-body .wishlist-compare:hover {
+	border-color: #1c63b8;
+    background: #1c63b8;
+}
+.advertise-area::before {
+	background: #1c63b8;
+}
+.fun-facts {
+	background: #1c63b8;
+}
+.fun-facts:hover i {
+	color: #1c63b8;
+}
+.fun-facts:hover .count {
+	color: #1c63b8;
+}
+.fun-facts:hover span {
+	color: #1c63b8;
+}
+.sale-product-content h4 a:hover {
+	color: #1c63b8;
+}
+.sale-product-content .price p span {
+	color: #1c63b8;
+}
+.blog-area .owl-controls .owl-dot.active, .blog-area .owl-controls .owl-dot:hover {
+	background: #1c63b8;
+}
+.single-blog-post:hover .date {
+	background: #1c63b8;
+}
+.post-content ul li a:hover {
+	color: #1c63b8;
+}
+.blog-details .thumb .date {
+	background: #1c63b8;
+}
+.blog-details-content .blockquote {
+	background: #1c63b8;
+}
+.blog-details-content .content-text ul li i {
+	color: #1c63b8;
+}
+.blog-details-footer {
+	background: #1c63b8;
+}
+.blog-details .about-admin {
+	background: #1c63b8;
+}
+.single-post-comments .content a {
+    color: #1c63b8;
+}
+.testimonials-area {
+	background: #1c63b8;
+}
+.single-feedback span {
+	color: #1c63b8;
+}
+.instagram-item::before {
+	background: #1c63b8;
+}
+.page-title ul li.active {
+    color: #1c63b8;
+}
+.page-title ul li a:hover {
+	color: #1c63b8;
+}
+.timeline > li > .timeline-badge {
+	background-color: #1c63b8;
+}
+.timeline-heading p i {
+	color: #1c63b8;
+}
+.side-bar .title::before {
+	background: #1c63b8;
+}
+.side-bar .inputGroup input:checked ~ label {
+    color: #1c63b8;
+}
+.side-bar .inputGroup input:checked ~ label::after {
+	background-color: #1c63b8;
+	border-color: #1c63b8;
+}
+.side-bar form button:hover {
+	background: #1c63b8;
+}
+.side-bar .tags ul li a {
+    border: 1px solid #1c63b8;
+}
+.side-bar .tags ul li a:hover {
+	background: #1c63b8;
+}
+.side-bar .recent-post-content ul li a:hover {
+	color: #1c63b8;
+}
+.our-staff .pic::before {
+	background: #1c63b8;
+}
+.our-staff .social {
+	background: #1c63b8;
+}
+.our-staff .social li a:hover{
+    color: #1c63b8;
+}
+.single-staff:hover .pic {
+	background: #1c63b8;
+}
+.single-staff .post {
+	color: #1c63b8;
+}
+.staff-details span {
+	color: #1c63b8;
+}
+.staff-details .staff-contact-info li i {
+	color: #1c63b8;
+}
+.single-gallery .picture-icon a {
+	background: #1c63b8;
+}
+.product-details .product-review ul .customer-review a {
+    color: #1c63b8;
+}
+.product-details .price h4 span + span {
+    color: #1c63b8;
+}
+.tabset > label {
+    border: 1px dashed #1c63b8;
+}
+.tabset > label:hover, .tabset > input:focus + label {
+    background: #1c63b8;
+}
+.tabset > input:checked + label {
+    background: #1c63b8;
+}
+.tab-panel {
+    border: 1px dashed #1c63b8;
+}
+.checkout-area .title::before {
+	background: #1c63b8;
+}
+.payment-holder input[type="radio"]:checked ~ .check {
+	background: #1c63b8;
+	border-color: #1c63b8;
+}
+.payment-holder .place-order {
+	background: #1c63b8;
+}
+.payment-holder .place-order .btn {
+	color: #1c63b8;
+}
+.card {
+	border: 1px solid #1c63b8;
+}
+.card-header {
+	background: #1c63b8;
+}
+.login-content p a:hover {
+	color: #1c63b8;
+}
+.login-content h4 a {
+	color: #1c63b8;
+}
+.register-content h4 a {
+	color: #1c63b8;
+}
+.contact-box i {
+	border: 1px dashed #1c63b8;
+	color: #1c63b8;
+}
+.contact-box:hover i {
+    background: #1c63b8;
+}
+.contact-box p a:hover {
+	color: #1c63b8;
+}
+.page-item.active .page-link {
+	background-color: #1c63b8;
+	border-color: #1c63b8;
+}
+.page-link:hover {
+	background-color: #1c63b8;
+	border-color: #1c63b8;
+}
+.footer-area .widgets .usefull-links li a:hover {
+	color: #1c63b8;
+}
+.footer-area .widgets .contact-us li i {
+	color: #1c63b8;
+}
+.footer-area .widgets .contact-us li a:hover {
+	color: #1c63b8;
+}
+.footer-area .widgets .subscribe-us button {
+	background: #1c63b8;
+}
+.copyright-area p a {
+    color: #1c63b8;
+}
+.go-top:hover {
+	background-color: #1c63b8;
+}
